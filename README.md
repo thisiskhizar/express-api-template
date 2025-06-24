@@ -14,6 +14,7 @@ This is a reusable template for building Node.js Express API applications. It in
 	- cookie-parser for parsing cookies.
 	- express-rate-limit for rate limiting.
 	- Custom error handling and 404 middleware.
+- Validation: Request validation using Joi.
 - Logging: morgan for HTTP request logging.
 - Modular Structure: Organized folder structure for scalability.
 
